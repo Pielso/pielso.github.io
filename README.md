@@ -13,5 +13,5 @@
 - Resa
 - Förtära rusdrycker
 
-[Skills](.idea/skills.md)
+[Skills](skills.md)
 
