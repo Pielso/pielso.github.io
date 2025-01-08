@@ -13,5 +13,5 @@
 - Resa
 - Förtära rusdrycker
 
-[Skills](../pielso.github.io/.idea/skills.md)
+[Skills](.idea/skills.md)
 
