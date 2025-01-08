@@ -1,3 +1,17 @@
 # This is my website
 
-Second line
+[Hobby](20241010_214811.jpg)
+
+[BoardGameGeek](https://www.boardgamegeek.com)
+
+### Jag gillar att:
+
+- Koda
+- Träna
+- Spela analoga spel
+- Äta
+- Resa
+- Förtära rusdrycker
+
+[Skills](../pielso.github.io/.idea/skills.md)
+
